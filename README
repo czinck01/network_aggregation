@@ -1,0 +1,22 @@
+Christian Zinck
+
+Applying Network Aggregation Techniques to the DREAM Challenge Data.
+
+Commands:
+python aggregate.py - finds the scored aggregated clustering of a collection of
+np matrices located in data/networks/DSDs, using node lists in data/nodelists,
+gene_ids in data/ids/gene_ids.txt and parameters in src/params
+
+python dsd.py - computes the DSD matrices and nodelists of a collection of
+edgelists located in data/networks/anonymized
+
+python convert.py - converts a directed graph to an undirected graph given a 
+filename as a command line parameter
+
+python stats.py - outputs a variety of statistics for the networks located in
+data/networks/anonymized
+
+*Note*
+FuncAssociate cannot be pip installed and therefore must be installed manually.
+It is also necessary to request a license from the creators of the software
+before using it.

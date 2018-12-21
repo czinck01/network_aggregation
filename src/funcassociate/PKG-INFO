@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: funcassociate_client
+Version: 0.01
+Summary: Client class for the Funcassociate web service
+Home-page: http://llama.mshri.on.ca
+Author: Gabriel Berriz
+Author-email: gberriz@hms.harvard.edu
+License: This software is distributed as "The Program" under the Harvard
+         University End-User License Agreement.
+Description: UNKNOWN
+Platform: UNKNOWN

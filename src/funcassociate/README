@@ -1,0 +1,33 @@
+funcassociate.client version 0.01
+
+REQUIREMENTS
+
+funcassociate.client depends on the following non-standard Python
+modules:
+
+* json
+
+or
+
+* simplejson
+
+Furthermore, the module's operation requires an internet connection
+capable of accessing the site http://llama.mshri.on.ca.
+
+
+INSTALLATION
+
+To install this module, run setup.py script.  E.g.:
+
+        # cd to the directory containing this README file
+	python setup.py install
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (c) 2010, President and Fellows of Harvard College and
+Gabriel Berriz
+
+This software is distributed as "The Program" under the Harvard
+University End-User License Agreement.
+L<http://llama.mshri.on.ca/license.html>
